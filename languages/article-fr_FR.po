@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Article\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-18 05:03+0000\n"
+"PO-Revision-Date: 2021-02-17 21:17-0800\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Loco-Version: 2.5.0; wp-5.4.4\n"
+"X-Domain: article\n"
+"Last-Translator: \n"
+"Language: fr\n"
+
+#: article.php:192
+msgid "Add New Article"
+msgstr "Ajouter un nouvel article"
+
+#: article.php:190
+msgctxt "add new on admin bar"
+msgid "Article"
+msgstr "Article"
+
+#: article.php:189
+msgctxt "admin menu"
+msgid "Article"
+msgstr "Article"
+
+#: article.php:196
+msgid "All Articles"
+msgstr "Tous les articles"
+
+#. Name of the plugin
+msgid "Article"
+msgstr "Article"
+
+#: article.php:191
+msgctxt "book"
+msgid "Add New"
+msgstr "Ajouter"
+
+#. Description of the plugin
+msgid ""
+"Create, edit and store articles or notes, easily within your wordpress "
+"dashboard with the viswyt visual editor.  Creates a new sections for "
+"articles or personal notes \"within\" your wordpress dashboard."
+msgstr ""
+"Créez, modifiez et stockez des articles ou des notes, facilement dans "
+"votre tableau de bord wordpress avec l’éditeur visuel.  Crée une "
+"nouvelle section pour les articles ou les notes personnelles « à "
+"l’intérieur » de votre tableau de bord wordpress."
+
+#: article.php:194
+msgid "Edit Article"
+msgstr "Modifier l’article"
+
+#. Author URI of the plugin
+msgid "https://prwirepro.com"
+msgstr "https://prwirepro.com"
+
+#. URI of the plugin
+msgid "https://prwirepro.com/article-plugin-information-wordpress"
+msgstr ""
+
+#: article.php:193
+msgid "New Article"
+msgstr "Ajouter un nouvel article"
+
+#: article.php:199
+msgid "No articles found"
+msgstr "Tous les articles"
+
+#: article.php:200
+msgid "No articles found in trash bin"
+msgstr ""
+
+#: article.php:198
+msgid "Parent Articles"
+msgstr ""
+
+#: article.php:187
+msgctxt "post type general name"
+msgid "Articles"
+msgstr ""
+
+#: article.php:188
+msgctxt "post type singular name"
+msgid "Article"
+msgstr ""
+
+#. Author of the plugin
+msgid "prwirepro"
+msgstr ""
+
+#: article.php:197
+msgid "Search Articles"
+msgstr ""
+
+#: article.php:195
+msgid "View Article"
+msgstr ""
